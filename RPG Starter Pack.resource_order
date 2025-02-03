@@ -16,7 +16,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_enemy1","order":1,"path":"objects/obj_enemy1/obj_enemy1.yy",},
-    {"name":"Object1","order":1,"path":"objects/Object1/Object1.yy",},
+    {"name":"Object1","order":2,"path":"objects/Object1/Object1.yy",},
     {"name":"Sprite22","order":14,"path":"sprites/Sprite22/Sprite22.yy",},
     {"name":"TileSet1","order":2,"path":"tilesets/TileSet1/TileSet1.yy",},
   ],
