@@ -22,7 +22,7 @@
     {"name":"obj_action_run","order":5,"path":"objects/obj_action_run/obj_action_run.yy",},
     {"name":"obj_battle_manager","order":1,"path":"objects/obj_battle_manager/obj_battle_manager.yy",},
     {"name":"obj_enemy1","order":1,"path":"objects/obj_enemy1/obj_enemy1.yy",},
-    {"name":"Object1","order":2,"path":"objects/Object1/Object1.yy",},
+    {"name":"obj_player","order":2,"path":"objects/obj_player/obj_player.yy",},
     {"name":"RoomBattle","order":1,"path":"rooms/RoomBattle/RoomBattle.yy",},
     {"name":"Sprite22","order":14,"path":"sprites/Sprite22/Sprite22.yy",},
     {"name":"TileSet1","order":2,"path":"tilesets/TileSet1/TileSet1.yy",},
