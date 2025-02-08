@@ -5,6 +5,8 @@ player_attack = function (_damage) {
     damage_to_enemy = _damage;
     enemy_turn = 1;
     alarm[0] = 40;
+    
+    obj_battle_player.alarm[0] = 10;
 }
 
 check_for_end = function () {
