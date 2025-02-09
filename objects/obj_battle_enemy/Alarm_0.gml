@@ -5,4 +5,3 @@ if (x<xstart -20) {
 } else {
     alarm[0]=1;
 }
-
